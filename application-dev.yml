@@ -1,2 +1,2 @@
 app:
-  name: dev application update and refreshed and actuator added
+  name: dev application update and refreshed and actuator added and added annotation @Refresh Scope
